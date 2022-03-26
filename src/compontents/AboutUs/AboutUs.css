@@ -1,0 +1,27 @@
+.mainDiv {
+    text-align: center;
+    padding: 20px;
+
+}
+
+.main-heading {
+    font-size: 50px;
+    color: #121212;
+    font-weight: bold;
+}
+
+.horijental {
+
+
+    background-color: #ff3556;
+    width: 100px;
+
+
+    font-weight: bold;
+
+}
+
+.header-div {
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,9 @@
+.main-login {
+    width: 500px;
+}
+
+.main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

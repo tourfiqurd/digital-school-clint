@@ -1,0 +1,22 @@
+.quiz-op-button {
+    margin: 2px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.main-quiz {
+    box-shadow: 1px 1px 20px black;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.heading-quiz {
+    text-align: center;
+    margin: 20px;
+}
+
+.extArea-Exam {
+    width: 100%;
+}

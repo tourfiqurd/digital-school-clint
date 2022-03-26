@@ -1,0 +1,28 @@
+.class-div {
+    border: 3px solid #1976D2;
+
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.heading {
+    background-color: #1976D2;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    width: 100%;
+
+    font-size: 20px;
+    color: white;
+}
+
+.class-button {
+    padding: 20px;
+}
+
+.height {
+    overflow-y: scroll;
+
+    height: 480px;
+
+}
